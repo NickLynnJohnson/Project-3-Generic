@@ -1,7 +1,6 @@
-# -React-2
+# Generic Project 3
 
-Put example pic here...
-<!-- ![Plan-to-schedule-demo](/assets/images/plan-to-schedule-demo.gif?raw=true "Plan-to-schedule-demo") -->
+![Generic-Landing-Page](/assets/images/generic-crm.png?raw=true "Generic-Landing-Page")
 
 ## Description
 
@@ -33,7 +32,7 @@ Employees login to the application and are able to search for customers as well 
 
 **Live Application:** 
 
-<!-- https://-react-crm.herokuapp.com/ -->
+https://generic-project-3.herokuapp.com/
 
 **Contributors:**
 * Cameron Nix
