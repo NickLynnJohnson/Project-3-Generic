@@ -1,6 +1,6 @@
 # Generic Project 3
 
-![Generic-Landing-Page](/assets/images/generic-crm.png?raw=true "Generic-Landing-Page")
+![Generic-Landing-Page](/public/assets/images/generic-crm.png?raw=true "Generic-Landing-Page")
 
 ## Description
 
